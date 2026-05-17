@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** and **DevSecOps Engineer** student passionate about building secure, scalable applications and automating infrastructure. I love working at the intersection of development, security, and operations.
+I'm a **Software Engineer** and **DevSecOps Engineer** student passionate about building secure, scalable applications and automating infrastructure. I love working at the intersection of development, security, and operations, with a strong interest in open-source contributions and AI technologies. When I’m not coding, you can find me hiking or playing soccer.
 
 - 🔭 Currently working on integrating security into CI/CD pipelines
 - 🌱 Learning more about cloud security, container orchestration, and infrastructure as code
