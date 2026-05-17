@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Ayoub
 
 ### 🚀 Student Developer | Tech Enthusiast | Building Cool Stuff
 
@@ -14,13 +14,12 @@
 
 ```javascript
 const aboutMe = {
-    location: "🌍 Your City, Country",
-    education: "🎓 Your University/School",
-    interests: ["Web Development", "AI/ML", "Open Source"],
-    currentlyLearning: ["React", "Python", "Data Structures"],
+    location: "🌍 Morocco",
+    interests: ["DevSecOps", "AI/ML", "Open Source"],
+    currentlyLearning: ["NestJs", "Spring Boot", "Linux System"],
     funFact: "⚡ I debug with console.log()",
-    askMeAbout: ["JavaScript", "Python", "Web Development"],
-    reachMe: "📫 your.email@example.com"
+    askMeAbout: ["Java", "Security", "Web Development"],
+    reachMe: "📫 ayoub666mouhib@gmail.com"
 };
 ```
 
