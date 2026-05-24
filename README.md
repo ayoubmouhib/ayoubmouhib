@@ -96,9 +96,9 @@ I'm a **Software Engineer** and **DevSecOps Engineer** student passionate about 
 ## 📫 How to Reach Me
 
 - 📧 Email: [ayoub666mouhib@gmail.com](mailto:ayoub666mouhibl@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ayoubmouhib](https://linkedin.com/in/ayoubmouhib)
-- 🐦 Twitter: [@ayoub](https://twitter.com/ayoubyoxii)
-- 🌐 Portfolio: [ayoubfuncode.com](https://yourwebsite.com)
+- 💼 LinkedIn: [linkedin.com/in/mouhib-devsecops](https://linkedin.com/in/mouhib-devsecops)
+- 🐦 Twitter: [@mouhib](https://twitter.com/mouhib_sec)
+- 🌐 Portfolio: [ayoubcode.com](https://ayoubsec.com)
 
 ## 📊 GitHub Stats
 
@@ -110,4 +110,4 @@ I'm a **Software Engineer** and **DevSecOps Engineer** student passionate about 
 
 ---
 
-⭐️ From [ayoubFanCode](https://github.com/ayoubFanCode)
+⭐️ From [ayoubmouhib](https://github.com/ayoubmouhib)
